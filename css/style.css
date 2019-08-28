@@ -1,5 +1,6 @@
 body 
 {
+    background: rgb(40, 42, 40)
     color: #333;
     text-align: left;
     font-family: "Arial";
@@ -19,6 +20,12 @@ body
 
 }
 
+#cabecera #eImg 
+{
+    max-width: 25px;
+
+}
+
 #cabecera #tagline
 {
     padding: 0 0 0 1em;
@@ -26,6 +33,7 @@ body
     font-size: 0.8em;
 
 }
+
 
 #container 
 {
