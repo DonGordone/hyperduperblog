@@ -1,5 +1,6 @@
 body 
 {
+    background: #333;
     color: #333;
     text-align: left;
     font-family: "Arial";
@@ -29,6 +30,7 @@ body
 
 #container 
 {
+    background: #DDD;
     width: 70%;
     padding: 0;
     text-align: left;
@@ -39,4 +41,19 @@ body
 #container h1 
 {
     font-size: 20px;
+}
+
+#footer
+{
+    background: #333;
+    
+}
+
+#footer p 
+{
+    font-size: 10px;
+    text-align: center;
+    color: #DDD;
+    padding: 5px 0;
+    margin: 10px 0 0 0;
 }
